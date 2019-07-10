@@ -1,0 +1,26 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+ /* .header {
+  display: flex;  
+  height: 20vh;
+  background: rgb(57, 98, 185);
+  width: 100%;
+}
+.header h4 {
+  display: flex; 
+}
+
+.App-link {
+  color: #61dafb;
+}
+.main-content {
+  height: 250px;
+  background: white;
+  width: 75%;
+}  */
+
+
